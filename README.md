@@ -1,7 +1,7 @@
-### Welcome to my page! 🤓
+## Welcome to my page! 🤓
 I'm Travis, Fullstack dev student from the PNW!
 
-## My ever-expanding toolbox -
+### My ever-expanding toolbox -
 <img src="https://user-images.githubusercontent.com/96236628/166409079-1e4e717f-59c6-4b04-bdb2-bf686aa969d5.png" width="35" height="35" 
 img src="https://user-images.githubusercontent.com/96236628/166409015-77e6264c-b670-46d2-8e5c-fe7e9b793cd4.png" width="35" height="35" >
 <img src="https://user-images.githubusercontent.com/96236628/166409093-8aad75b2-cc65-4407-844e-a3aac1fd60c5.png" width="35" height="35" >
