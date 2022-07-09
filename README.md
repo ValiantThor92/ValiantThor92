@@ -46,6 +46,6 @@ I'm Travis, Fullstack dev student from the PNW!
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
    </div>
    
-![Snake animation](https://github.com/ValiantThor92/ValiantThor92/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ValiantThor92/ValiantThor92/blob/output/github-contribution-grid-snake.svg) -->
 
 
