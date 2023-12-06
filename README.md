@@ -1,5 +1,5 @@
 ## Welcome to my world 🗺️
-I'm Travis, Fullstack dev student from the PNW!
+I'm Travis, Fullstack dev from the PNW!
 
 [![ValiantThor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValiantThor92&show_icons=true&theme=slateorange)](https://github.com/ValiantThor92)
 [![ValiantThor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantThor92&layout=compact&theme=slateorange)](https://github.com/ValiantThor92)
